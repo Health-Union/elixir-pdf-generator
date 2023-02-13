@@ -29,6 +29,6 @@
   "homepage": "https://github.com/gutschilla/elixir-pdf-generator#readme",
   "dependencies": {
     "chrome-headless-render-pdf": "^1.10.0",
-    "puppeteer": "^13.7.0"
+    "puppeteer": "^19.7.0"
   }
 }
